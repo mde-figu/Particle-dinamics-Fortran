@@ -1,0 +1,11 @@
+1	!Potencial ? (1)Lennard Jones (2)WCA
+0.005	!intervalo de tempo
+25	!tempo total
+5	!tempo de termalização
+200	!numero de particulas
+-9	!inteiro neg. para geração de posicoes
+0.1	!densidade
+1.2	!separação mínima
+1.0	!módulo da velocidade inicial
+500	!numero de quadros
+1	!liga(1) filme,(0) desliga filme
